@@ -1,0 +1,40 @@
+15:16:05,283  INFO %Test WebServiceClient:deleteFile:72 - File deleteTest.jpg not found
+15:16:05,292  INFO %Test WebServiceClient:isFileDeleted:96 - File is deleted : deleteTest.jpg
+15:18:29,032  INFO %Test WebServiceClient:deleteFile:72 - File deleteTest.jpg not found
+15:18:29,353  INFO %Test WebServiceClient:isFileDeleted:96 - File is deleted : deleteTest.jpg
+15:19:00,007  INFO %Test WebServiceClient:showAllFiles:59 - dodge.jpg
+15:19:00,014  INFO %Test WebServiceClient:showAllFiles:59 - test.jpg
+15:19:00,147  INFO %Test WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/dodge.jpg
+15:19:01,315  INFO %Test WebServiceClient:upload:32 - File uploaded: Test/Client/Upload/dodge.jpg
+15:19:01,315  INFO %Test WebServiceClient:showAllFiles:59 - dodge.jpg
+15:19:01,315  INFO %Test WebServiceClient:showAllFiles:59 - test.jpg
+15:19:01,342  INFO %Test WebServiceClient:download:41 - Starting download file: Test/Client/Download/dodge.jpg
+15:19:01,345  INFO %Test WebServiceClient:download:47 - File downloaded: Test/Client/Download/dodge.jpg
+15:19:01,346  INFO %Test WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/deleteTest.jpg
+15:19:01,434  INFO %Test WebServiceClient:upload:32 - File uploaded: Test/Client/Upload/deleteTest.jpg
+15:20:19,183  INFO WebServiceClient:showAllFiles:59 - deleteTest.jpg
+15:20:19,192  INFO WebServiceClient:showAllFiles:59 - dodge.jpg
+15:20:19,192  INFO WebServiceClient:showAllFiles:59 - test.jpg
+15:20:19,228  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/dodge.jpg
+15:20:19,361  INFO WebServiceClient:upload:32 - File uploaded: Test/Client/Upload/dodge.jpg
+15:20:19,361  INFO WebServiceClient:showAllFiles:59 - deleteTest.jpg
+15:20:19,363  INFO WebServiceClient:showAllFiles:59 - dodge.jpg
+15:20:19,364  INFO WebServiceClient:showAllFiles:59 - test.jpg
+15:20:19,385  INFO WebServiceClient:download:41 - Starting download file: Test/Client/Download/dodge.jpg
+15:20:19,414  INFO WebServiceClient:download:47 - File downloaded: Test/Client/Download/dodge.jpg
+15:20:19,415  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/deleteTest.jpg
+15:20:19,472  INFO WebServiceClient:upload:32 - File uploaded: Test/Client/Upload/deleteTest.jpg
+15:37:29,698  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/test.jpg
+15:37:30,557  INFO WebServiceClient:upload:32 - File uploaded: Test/Client/Upload/test.jpg
+15:37:30,557  INFO WebServiceClient:isFileUpload:78 - File exist : test.jpg
+15:37:30,731  INFO WebServiceClient:download:41 - Starting download file: Test/Client/Download/test.jpg
+15:37:30,744  INFO WebServiceClient:download:47 - File downloaded: Test/Client/Download/test.jpg
+15:37:30,745  INFO WebServiceClient:isFileDownload:87 - File exist : test.jpg
+15:37:30,828  INFO WebServiceClient:deleteFile:70 - File deleteTest.jpg was deleted
+15:37:30,829  INFO WebServiceClient:isFileDeleted:96 - File is deleted : deleteTest.jpg
+15:44:15,848  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/wrong.jpg
+15:44:47,879  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/wrong.jpg
+15:50:04,894  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/wrong.jpg
+15:50:53,048  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/wrong.jpg
+15:51:40,145  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/wrong.jpg
+16:18:58,833  INFO WebServiceClient:upload:25 - Starting upload file: Test/Client/Upload/wrong.jpg
