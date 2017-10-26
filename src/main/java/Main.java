@@ -7,6 +7,8 @@ public class Main {
         serviceClient.upload("dodge.jpg");
         serviceClient.showAllFiles();
         serviceClient.download("dodge.jpg");
+		serviceClient.download("dodge.jpg");
+		serviceClient.download("dodge.jpg");
 
 
 
