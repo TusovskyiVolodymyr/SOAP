@@ -15,6 +15,9 @@ public class Main {
         serviceClient.download("dodge.jpg");
 		serviceClient.download("dodge.jpg");
 		serviceClient.download("dodge.jpg");
+        serviceClient.download("dodge.jpg");
+        serviceClient.download("dodge.jpg");
+        serviceClient.download("dodge.jpg");
 
 
 
